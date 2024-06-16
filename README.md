@@ -8,12 +8,8 @@ I'm a Business Analyst Amazon Banglore
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 SQL phile online coding challenger in leetcode,Sctratascratch
 - 💬 Hackerrank Geek for Geeks and many more coding sites
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/muthuvrn/?igsh=MXIzZGR6bDczajdq)
-
-- 😄 Pronouns: Muthu
+-- 😄 Pronouns: Muthu
 - ⚡ Hobby:  playing chess 
-
 
 
 ### I code in
