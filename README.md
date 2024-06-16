@@ -24,7 +24,7 @@ I'm a Business Analyst Amazon Banglore
 
 
 
-[LeetCode Stats](https://leetcard.jacoblin.cool/muthu38?theme=dark&font=Marcellus&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/muthu38?theme=dark&font=Noto%20Sans%20Bhaiksuki)
 
 
 
